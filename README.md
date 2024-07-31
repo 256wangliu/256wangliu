@@ -10,10 +10,6 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 - 
-![256wangliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=256wangliu&show_icons=true&theme=highcontrast)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=256wangliu)
-
 ## Social
 
 <!-- badges: start -->
@@ -35,3 +31,17 @@ LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&s
 ![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&logo=docker&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&logo=google-cloud&logoColor=white) -->
 <!-- badges: end -->
+
+![256wangliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=256wangliu&show_icons=true&theme=highcontrast)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=256wangliu)
+
+
+
+
+
+
+
+
+
+
