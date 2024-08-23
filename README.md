@@ -6,7 +6,6 @@
 - 📜 You can read about my scientific publications on website [GitHub Pages](https://256wangliu.github.io/).
 - 👯 I’m looking to collaborate on: Single-cell Multi-omics
 - 💬 I like hiking and swimming!
-- 📫 How to reach me: Wang.Liu@mayo.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 - 
