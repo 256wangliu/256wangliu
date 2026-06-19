@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on machine learning for therapeutic target discovery.
 - 🌱 I’m currently learning: everything🤣
 - 🏫 I have attended: [Mayo Clinic Arizona](https://college.mayo.edu/).
-- 📜 You can read about my scientific publications on website [GitHub Pages](https://256wangliu.github.io/).
+- 📜 My website: [GitHub Pages](https://256wangliu.github.io/).
 - 👯 I’m looking to collaborate on machine learning projects.
 - 💬 I like hiking and swimming!
 - 😄 Pronouns: He/Him/His
