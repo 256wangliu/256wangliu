@@ -1,4 +1,4 @@
-# Hello World 
+# LIU WANG
 
 - 🔭 I’m currently working on machine learning for therapeutic target discovery.
 - 🌱 I’m currently learning: everything🤣
