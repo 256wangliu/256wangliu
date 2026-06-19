@@ -1,10 +1,10 @@
 # Hello World 
 
-- 🔭 I’m currently working on: Developing next-generation multi-omic platforms to interrogate tissue heterogeneity
+- 🔭 I’m currently working on machine learning for therapeutic target discovery.
 - 🌱 I’m currently learning: everything🤣
 - 🏫 I have attended: [Mayo Clinic Arizona](https://college.mayo.edu/).
 - 📜 You can read about my scientific publications on website [GitHub Pages](https://256wangliu.github.io/).
-- 👯 I’m looking to collaborate on: Single-cell Multi-omics
+- 👯 I’m looking to collaborate on machine learning projects.
 - 💬 I like hiking and swimming!
 - 😄 Pronouns: He/Him/His
 
